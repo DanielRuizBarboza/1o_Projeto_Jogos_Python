@@ -1,4 +1,4 @@
-# jogo-da-forca-e-de-adivinhacao
+# Jogos Python
 ###### Primeiro projeto visto em estudo via plataforma Alura, nos cursos iniciais de python: 
 ###### "Python: conheçando a linguagem" e "Python: avançando na linguagem."
 ###### Neste projeto, o básico sobre a linguagem python foi abordado, como sintaxe e semântica, identação do código, definição de classes e métodos específicos programados em uma estruturada básica já orientada a objetos.
