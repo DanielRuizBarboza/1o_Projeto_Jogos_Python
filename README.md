@@ -3,9 +3,9 @@
 ###### "Python: conheçando a linguagem" e "Python: avançando na linguagem."
 ###### Neste projeto, o básico sobre a linguagem python foi abordado, como sintaxe e semântica, identação do código, definição de classes e métodos específicos programados em uma estruturada básica já orientada a objetos.
 ###### O primeiro jogo criado foi o de adivinhação. Um número de 1 a 100 é sorteado aleatoriamente para o usuário adivinhar dentro de um número limitado de tentativas, de acordo com a dificuldade escolhida pelo mesmo.
-###### o segundo jogo é o da forca. Dada uma lista de palavras, o python sorteia uma das palavras para o usuário advinhar em um número fixo de tentativas (até se enforcar)
+###### O segundo jogo é o da forca. Dada uma lista de palavras, o python sorteia uma das palavras para o usuário advinhar em um número fixo de tentativas (até se enforcar)
 
-###### Tópicos abordados:
+## Tópicos abordados:
  Python: conheçando a linguagem:
  1. Instalação do Python 3
  2. Lidando com a entrada do usuário
